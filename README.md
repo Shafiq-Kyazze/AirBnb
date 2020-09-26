@@ -24,15 +24,17 @@ The project will look at meeting the following goals:
 *********************************************************************************************************************************************************************************
 # Exploratory Data Analysis findings
 1. Inner London boroughs were the most popular locations amongst guests with Westminster being the most popular borough in London.![Borough popularity London1](https://user-images.githubusercontent.com/58377262/94342611-119b5e80-000a-11eb-8211-f9de0f34d832.gif)
-    ![Popularity](https://user-images.githubusercontent.com/58377262/94342181-3cd07e80-0007-11eb-888b-2b7b571d4369.png)
+  ![Popularity](https://user-images.githubusercontent.com/58377262/94343313-20d0db00-000f-11eb-9c79-16ff952160d9.png)
 2. Apartments are the commenest property types listed by hosts in London
-![Apartments most common](https://user-images.githubusercontent.com/58377262/94341600-94202000-0002-11eb-8f76-d7c5923a4baf.png)
+![Apartments most common](https://user-images.githubusercontent.com/58377262/94343308-1b739080-000f-11eb-9902-24cb6b71c35c.png)
 3. Guests preferred  reserving entire houses/apartments compared to just a single room
-   ![piechart](https://user-images.githubusercontent.com/58377262/94341583-676c0880-0002-11eb-8c6c-f3287250f184.png)
-
-4. The busiest hosts had more experience, provided more amenities and had properties in the most popular locations.
-5. 7 in 10 properties had a score of 80 and above which goes to show that most AirBnb users enjoy the service.
-6. Guests were more likely to leave a review on a property that offered them great service.
+   ![piechart](https://user-images.githubusercontent.com/58377262/94343311-1f071780-000f-11eb-8aa5-bb045daba9b6.png)
+   ![piechart](https://user-images.githubusercontent.com/58377262/94343710-f3d1f780-0011-11eb-98ac-f64c076ac551.png)
+4. The median price for homes was highest in the inner London boroughs and south weatern boroughs
+![Median accommodation price](https://user-images.githubusercontent.com/58377262/94343309-1d3d5400-000f-11eb-9d24-a72140a56f25.png)
+5. The busiest hosts had more experience, provided more amenities and had properties in the most popular locations.
+6. 7 in 10 properties had a score of 80 and above which goes to show that most AirBnb users enjoy the service.
+7. Guests were more likely to leave a review on a property that offered them great service.
   
   **More findings can be found in the notebook files uploaded**
   
