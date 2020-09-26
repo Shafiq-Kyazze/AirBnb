@@ -17,7 +17,7 @@ The project will look at meeting the following goals:
 # Code and Resources used
 * **Python Version:** 3.7
 * **Jupyter notebook:** 5.8.0
-* **Packages:** pandas,numpy, scikit-learn, matplotlib, seaborn, bokeh, holoviews(geoviews), geopandas, Keras
+* **Packages:** pandas,numpy, scikit-learn, matplotlib, seaborn, bokeh, holoviews(geoviews), geopandas, Keras, xgboost
 *********************************************************************************************************************************************************************************
 # Data Sources
  The dataset for London was used and was obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
