@@ -30,8 +30,9 @@
 3. Guests preferred renting out the whole house/apartment compared to just a single room
    ![piechart](https://user-images.githubusercontent.com/58377262/94341583-676c0880-0002-11eb-8c6c-f3287250f184.png)
 
-4. The busiest hosts had more experience, provided more amenities and had properties in the most popular locations 
-5. 7 in 10 properties had a score of 80 and above which goes to show that most AirBnb users enjoy the service
-6. Guests were more likely to leave a review on a property that offered them great service
+4. The busiest hosts had more experience, provided more amenities and had properties in the most popular locations.
+5. 7 in 10 properties had a score of 80 and above which goes to show that most AirBnb users enjoy the service.
+6. Guests were more likely to leave a review on a property that offered them great service.
+  
   **More findings can be found in the notebook files uploaded**
   
