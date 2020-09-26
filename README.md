@@ -28,8 +28,7 @@ The project will look at meeting the following goals:
 2. Apartments are the commenest property types listed by hosts in London
 ![Apartments most common](https://user-images.githubusercontent.com/58377262/94343308-1b739080-000f-11eb-9902-24cb6b71c35c.png)
 3. Guests preferred  reserving entire houses/apartments compared to just a single room
-   ![piechart](https://user-images.githubusercontent.com/58377262/94343311-1f071780-000f-11eb-8aa5-bb045daba9b6.png)
-   ![piechart](https://user-images.githubusercontent.com/58377262/94343710-f3d1f780-0011-11eb-98ac-f64c076ac551.png)
+      ![piechart](https://user-images.githubusercontent.com/58377262/94343710-f3d1f780-0011-11eb-98ac-f64c076ac551.png)
 4. The median price for homes was highest in the inner London boroughs and south weatern boroughs
 ![Median accommodation price](https://user-images.githubusercontent.com/58377262/94343309-1d3d5400-000f-11eb-9d24-a72140a56f25.png)
 5. The busiest hosts had more experience, provided more amenities and had properties in the most popular locations.
